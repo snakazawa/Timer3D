@@ -1,0 +1,20 @@
+{
+  "name": "Timer3D",
+  "main": "Timer3D.js",
+  "version": "0.0.0",
+  "authors": [
+    "snakazawa <nakazawa.tms0314@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threejs": "*",
+    "underscore": "~1.8.2"
+  }
+}
